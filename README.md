@@ -1,2 +1,2 @@
-# reuben10json node rpc
+# r10jsonrpc
 Node Repository JSON
